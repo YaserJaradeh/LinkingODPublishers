@@ -1,0 +1,51 @@
+Portal ID,Dataset ID,Org Name 1,Org Neame 2,Reflected in DBpedia,Reflected in WikiData?,Reflected in Wikipedia Freetext?,Reflected in Wikipedia Infoboxes?
+data_gov_ie,00011b37-033b-4255-8a71-07711fdbb6ae,"Department of Communications, Energy and Natural Resources","Department of Communications, Climate Action & Environment",FALSE,TRUE,TRUE,FALSE
+data_qld_gov_au,00017373-416c-4166-bde0-e11d54ea0254,Energy and Water Supply,"Natural Resources, Mines and Energy",FALSE,FALSE,FALSE,FALSE
+data_gov_uk,00029d8d-1be7-4435-9ef8-95dc8cc20e48,"Department for Business, Innovation and Skills","Department for Business, Energy and Industrial Strategy",FALSE,TRUE,FALSE,FALSE
+iatiregistry_org,00039d25-4014-4841-a9b5-9108df23040c,UK - Department of Health,UK - Department of Health and Social Care (DHSC),TRUE,FALSE,TRUE,FALSE
+data_gov_au,00077ae8-57b2-40b7-b4b5-491872163d70,South Australian Governments,"Department of Planning, Transport and Infrastructure",TRUE,TRUE,FALSE,FALSE
+data_gov,0010b8db-5b8b-4911-8235-00672b579ac3,NSGIC GIS Inventory (aka Ramona),NSGIC GIS Inventory,FALSE,FALSE,FALSE,FALSE
+iatiregistry_org,00116a42-7427-4907-875c-2209310d85b5,United Nations Development Programme,United Nations Development Programme (UNDP),TRUE,TRUE,TRUE,TRUE
+data_sa_gov_au,00276f4b-4833-4695-9ceb-052c28ec3599,Commonwealth Datasets,Department of Finance,TRUE,FALSE,TRUE,TRUE
+data_london_gov_uk,00279d46-fcfd-4f14-b365-1e2e17685748,London Datastore Archive,Association of Public Health Observatories,FALSE,FALSE,FALSE,FALSE
+datahub_io,00326043-62b6-47a8-9a49-1aa226b7e2c4,London Datastore Archive,UK Power Networks,TRUE,FALSE,TRUE,FALSE
+www_data_gc_ca,0032ce54-c5dd-4b66-99a0-320a7b5e99f2,Industry Canada | Industrie Canada,"Innovation, Science and Economic Development Canada",TRUE,TRUE,TRUE,TRUE
+data_gov_uk,00345cfb-0b7c-4d35-a453-11e76ef5b479,"Department for Business, Innovation and Skills",Department for Education,FALSE,FALSE,TRUE,TRUE
+data_sa_gov_au,003a1d7e-1f1d-4685-82d3-93d02dc1c922,"Dept of Environment, Water and Natural Resources",Department for Environment and Water,FALSE,TRUE,TRUE,FALSE
+data_gov_au,0041073d-f5ee-4225-a22f-f3f61d95c4f7,Department of Finance Services,"Department of Finance, Services and Innovation",TRUE,FALSE,TRUE,FALSE
+datahub_io,0044e9bb-71b3-40d8-b99f-a599675bb2b5,London Fire and Civil Defence Authority,London Fire and Emergency Planning Authority,TRUE,FALSE,TRUE,TRUE
+iatiregistry_org,007070c6-6335-4a55-be3c-67b18cbb7548,European Commission - Development and Cooperation-EuropeAid,European Commission - Directorate-General for International Cooperation and Development,FALSE,TRUE,TRUE,TRUE
+data_gov_uk,0075e3cf-4a44-480c-9b6c-e74903c5782f,Department for Communities and Local Government,"Ministry of Housing, Communities and Local Government",FALSE,TRUE,TRUE,FALSE
+data_gov_uk,00a1ee64-e40b-49c7-a743-3854d32ea671,Department of Energy and Climate Change,"Department for Business, Energy and Industrial Strategy",FALSE,FALSE,TRUE,TRUE
+data_ug,010f51f3-ac9e-439c-b605-07b189ec0acb,The Ministry of Agriculture Animal Industry and Fisheries,CSBAG,FALSE,FALSE,FALSE,FALSE
+data_gov_uk,01329c76-f488-40ec-a060-fc782647fc80,Environmental Information Data Centre,Centre for Ecology & Hydrology,TRUE,TRUE,TRUE,TRUE
+data_gov,02b3480e-1cb4-4cdc-b643-8831b6b56c6c,California Department of Resources,California Natural Resource Agency,FALSE,TRUE,TRUE,TRUE
+data_gov_au,02d1bde6-0689-4a91-a2a3-7aa20a4e324d,Department of the Environment,Department of the Environment and Energy,TRUE,TRUE,TRUE,TRUE
+data_gov_au,0377e6c9-e9a3-47db-bec0-5fb2adc33f59,Department of Agriculture and Water Resources,Australian Bureau of Agriculture and Resource Economics and Sciences,FALSE,TRUE,FALSE,FALSE
+www_data_gc_ca,06022cc0-a31e-4b4c-850d-d4dccda5f3ac,Environment Canada | Environnement Canada,Environment and Climate Change Canada | Environnement et Changement climatique Canada,FALSE,TRUE,TRUE,FALSE
+data_gov_uk,0dc09630-c019-4e66-8caf-389c876bb078,Land Registry,HM Land Registry,FALSE,TRUE,TRUE,FALSE
+data_seattle_gov,2b79-5pr8,Seattle Engineering Department,Seattle Department of Transportation,FALSE,TRUE,TRUE,TRUE
+data_gov_uk,2bb23e75-9518-4da1-8528-ec6a00ea7582,Health and Social Care Information Centre,NHS Digital,TRUE,TRUE,TRUE,TRUE
+data_qld_gov_au,2d3a7c9a-4af3-4877-bc84-a2efb850e1b0,Environment and Heritage Protection,Environment and Science,FALSE,FALSE,FALSE,FALSE
+data_hawaii_gov,2d5x-e37e,Hawaii Statewide GIS Program,"State of Hawaii, Office of Planning, GIS Program",FALSE,FALSE,FALSE,FALSE
+data_gov_au,2df7270d-133a-43ee-8a8c-9973abb39de1,Department of Employment,Department of Jobs and Small Business,FALSE,TRUE,TRUE,TRUE
+data_sa_gov_au,75a69101-d7b0-4ea1-a62a-00546a258e39,Dept for Education and Child Development,Department of Education,TRUE,TRUE,TRUE,TRUE
+opencolorado_org,a809dfb1-4c8b-4fb5-a339-44bc03d7d55f,DRCOG Geospatial Team,Denver Regional Council of Governments,TRUE,FALSE,FALSE,FALSE
+opendata_go_tz,a8c972f1-f78b-497b-8528-9ccaab9b2876,Ministry of Education and Vocational Training,"Ministry of Education, Science and Technology (MoEST)",FALSE,TRUE,TRUE,TRUE
+data_sa_gov_au,a9077319-d3b7-4f52-b9b7-04cb786ccca1,Dept for Health and Ageing,SA Health,TRUE,FALSE,FALSE,FALSE
+data_ug,a9137c6b-6919-4e99-b6c8-6e4ee09ad0a7,Uganda National Examination Board (UNEB),Brian Ssenabulya,FALSE,FALSE,FALSE,FALSE
+annuario_comune_fi_it,a948ba6d-c74a-4b5f-9ea2-bb8f0c664e52,Annuario Statistico,Annuario Statistico del Comune di Firenze,FALSE,TRUE,FALSE,FALSE
+data_sa_gov_au,a96aa031-3afe-4a62-8f0e-feed5aaecc04,Dept for Communities and Social Inclusion,Department of Human Services,FALSE,TRUE,TRUE,TRUE
+data_qld_gov_au,aa426d46-3ec2-45cd-a80b-e0da3ffcc03f,"Science, Information Technology and Innovation",Housing and Public Works,TRUE,TRUE,FALSE,FALSE
+iatiregistry_org,aa81c137-49c0-4029-be5d-e650ca8c0c91,OCHA Financial Tracking Service,United Nations OCHA Financial Tracking Service (UN OCHA FTS),FALSE,FALSE,FALSE,FALSE
+data_ct_gov,aawr-mzex,Office of the State Comptroller,Connecticut Higher Education Supplemental Loan Authority,FALSE,FALSE,FALSE,FALSE
+www_data_gc_ca,b581fa63-f854-4a63-839d-4615f1e98002,Public Works and Government Services Canada | Travaux publics et Services gouvernementaux Canada,Public Services and Procurement Canada | Services publics et Approvisionnement Canada,FALSE,TRUE,TRUE,FALSE
+finances_worldbank_org,b5ua-gdn4,World Bank Group Finances,The World Bank Group,FALSE,FALSE,FALSE,FALSE
+data_qld_gov_au,b6f64fff-79f8-45e0-8f4a-e77763c27aa5,Natural Resources and Mines,"Natural Resources, Mines and Energy",FALSE,TRUE,FALSE,FALSE
+data_wa_gov,b6zw-m7zs,ATG-ISD-Marvin,Washington State Attorney General's Office Consumer Protection Division,FALSE,FALSE,FALSE,FALSE
+data_qld_gov_au,b7067f26-97f8-4e71-b48d-66026a17bcef,"Infrastructure, Local Government and Planning","State Development, Manufacturing, Infrastructure and Planning",FALSE,FALSE,FALSE,FALSE
+www_data_vic_gov_au,b766706f-33fc-4d3f-a98f-6881836fa2cf,Victorian Electoral Commission,"Department of Environment, Land, Water & Planning",TRUE,TRUE,FALSE,FALSE
+data_humdata_org,0166def4-bac0-4d33-a929-f5596d18e178,International Federation of Red Cross and Red Crescent Societies (IFRC),American Red Cross,FALSE,TRUE,FALSE,FALSE
+data_london_gov_uk,0044e9bb-71b3-40d8-b99f-a599675bb2b5,London Fire and Civil Defence Authority,London Fire and Emergency Planning Authority,FALSE,FALSE,TRUE,TRUE
+data_oregon_gov,rq9e-73hy,Oregon State Highway Commission,Oregon Department of Transportation,TRUE,TRUE,TRUE,TRUE
+data_gov_au,fc5d93c6-714a-461a-8f61-a80ef5ad1e8f,Department of Agriculture of Australia,Department of Agriculture and Water Resources,FALSE,TRUE,TRUE,TRUE
